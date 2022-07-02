@@ -1,0 +1,22 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TakumaIkeda/type-challenges.git",
+  "author": "TakumaIkeda <i.taku0415@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "tsc": "tsc",
+    "ts-node": "ts-node"
+  },
+  "volta": {
+    "node": "16.15.1",
+    "yarn": "1.22.19"
+  },
+  "dependencies": {
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.8.1"
+  }
+}
