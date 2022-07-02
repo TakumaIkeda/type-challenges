@@ -1,0 +1,1 @@
+[type-challenges](https://github.com/type-challenges)の解答置き場
