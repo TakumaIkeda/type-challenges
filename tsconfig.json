@@ -6,6 +6,9 @@
         "./*"
       ]
     },
-    "strict": true
+    "strict": true,
+    "lib": [
+      "es2015"
+    ]
   }
 }
